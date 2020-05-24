@@ -6,3 +6,6 @@ Content
 
 This Data contains around 25k images of size 150x150 distributed under 6 categories.
 The Train, Test and Prediction data is separated in each zip files. There are around 14k images in Train, 3k in Test and 7k in Prediction.
+
+# Metrics
+Overall accuracy with the validation set after 20 epoch was 84.33%.
